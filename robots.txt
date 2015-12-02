@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://phonedb.github.io/sitemap.xml 

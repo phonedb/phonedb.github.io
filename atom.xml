@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Базы данных Avito и юридических лиц.]]></title>
+  <link href="http://phonedb.github.io/atom.xml" rel="self"/>
+  <link href="http://phonedb.github.io/"/>
+  <updated>2015-12-02T23:01:22+00:00</updated>
+  <id>http://phonedb.github.io/</id>
+  <author>
+    <name><![CDATA[phone-db]]></name>
+    <email><![CDATA[m@phone-db.ru]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
