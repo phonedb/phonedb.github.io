@@ -4,7 +4,7 @@
   <title><![CDATA[Базы данных Avito и юридических лиц.]]></title>
   <link href="http://phonedb.github.io/atom.xml" rel="self"/>
   <link href="http://phonedb.github.io/"/>
-  <updated>2015-12-02T23:01:22+00:00</updated>
+  <updated>2015-12-02T23:05:49+00:00</updated>
   <id>http://phonedb.github.io/</id>
   <author>
     <name><![CDATA[phone-db]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[первая запись]]></title>
+    <link href="http://phonedb.github.io/blog/2015/12/02/title/"/>
+    <updated>2015-12-02T23:03:51+00:00</updated>
+    <id>http://phonedb.github.io/blog/2015/12/02/title</id>
+    <content type="html"><![CDATA[<p>Вот запустился сайт.</p>
+]]></content>
+  </entry>
   
 </feed>
